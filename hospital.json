@@ -1,0 +1,19 @@
+[{
+  "id": 2,
+  "name": "PRS Hospital",
+  "patientCount": 130,
+  "hospitalLocation": "Karamana, Thiruvananthapuram, Kerala"
+},
+  {
+    "id": 2,
+    "name": "Cosmopolitian Hospital",
+    "patientCount": 220,
+    "hospitalLocation": "Pattom, Thiruvananthapuram, Kerala"
+  },
+  {
+    "id": 3,
+    "name": "KIMS Hospital",
+    "patientCount": 100,
+    "hospitalLocation": "KIMSHEALTH Hospital Trivandrum, 1, Vinod Nagar Rd, Anayara, Thiruvananthapuram, Kerala"
+  }
+]
